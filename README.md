@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Alex! 
-[![](https://img.shields.io/badge/My%20portfolio-gold)](https://google.com)
+[![](https://img.shields.io/badge/Portfolio-gold)](https://google.com)
 [![](https://img.shields.io/badge/Telegram-blue)](https://google.com)
 [![](https://img.shields.io/badge/Gmail-red)](https://google.com)  
 #### My stack
