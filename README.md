@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/Portfolio-gold)](https://alexdevsprint.github.io/portfolio/)
 [![](https://img.shields.io/badge/Telegram-blue)](https://t.me/alexdevsprint)
 [![](https://img.shields.io/badge/Gmail-red)](https://gmail.com)  
+#### 🔭 I’m currently working on
 #### My stack
 <img align="left" alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3"  title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -10,7 +11,6 @@
 <img align="left" alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />  
 
-#### 🔭 I’m currently working on
 <!--
 **alexdevsprint/alexdevsprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
